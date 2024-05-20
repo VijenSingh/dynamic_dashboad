@@ -1,0 +1,19 @@
+.trade-list {
+  margin-bottom: 20px;
+}
+
+.trade-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.trade-list th,
+.trade-list td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.trade-list th {
+  background-color: #f2f2f2;
+}
